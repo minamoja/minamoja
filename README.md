@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minamoja
 - 👀 I’m interested in many many things
-- 🌱 I’m currently learning (sure i am)
+- 🌱 I’m currently learning to use Github (sure i am)
 - 💞️ I’m looking to collaborate on ... who knows ?
 - 📫 How to reach me devezmad@yahoo.fr
 
